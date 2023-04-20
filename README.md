@@ -1,16 +1,25 @@
-### Hi there 👋
+<!-- Your Name and Introduction -->
+# Hi there! 👋 I'm Sachin
 
-<!--
-**SachinHR/SachinHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Stats -->
+## Profile Stats
 
-Here are some ideas to get you started:
+![SachinHR GitHub Stats](https://github-readme-stats.vercel.app/api?username=SachinHR&show_icons=true&count_private=true&hide=stars&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Skills and Technologies -->
+## Skills & Technologies
+
+```markdown
+- Kubernetes
+- Docker
+- Helm
+- Operators SDK
+- Terraform
+- Ansible
+- AWS/GCP/Azure
+- Prometheus
+- Grafana
+- ELK stack
+- Git
+- Agile/Scrum
+
